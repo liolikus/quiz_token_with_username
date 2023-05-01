@@ -1,0 +1,6 @@
+// The program input for quiz_token_with_username/src/main.leo
+[get_reward]
+owner: address = aleo1xvlh6eyf5lgfv2z5za47j6qkh3uv5e0ga6gdzg5l4rssheymxsqqsnkgc4;
+discord_username: field = 604423837765371544759072838070515766field; //Encrypt "the_liolik#3786" to Base58 > Decrypt Base58 "4Fte3TYDESFwQoFSitC13"  to INT  > INT "604423837765371544759072838070515766" storing as a field type Sample here: https://www.dcode.fr/base-58-cipher
+amount: u64 = 101u64;
+// gates: u64 = 0u64;
