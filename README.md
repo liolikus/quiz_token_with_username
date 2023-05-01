@@ -20,5 +20,5 @@ Storing my Discord username "the_liolik#3786"
                   amount: 101u64.private,
                   _nonce: 4114874251515989834421702505041058013293543730216157692419564769394314805954group.public
                 }
-5) Sample for decode here: https://www.dcode.fr/base-58-cipher
+5) Sample for decode/encode here: https://www.dcode.fr/base-58-cipher
 
