@@ -4,7 +4,7 @@
 
 To compile this Aleo program, run:
 ```bash
-aleo build
+leo run get_reward
 ```
 ## Description
 Storing my Discord username "the_liolik#3786"
