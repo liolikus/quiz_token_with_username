@@ -1,0 +1,10 @@
+{
+    "program": "quiz_token_with_username.aleo",
+    "version": "0.11",
+    "description": "Reward For completing quiz with Discord username. Private",
+    "development": {
+        "private_key": "APrivateKey1zkp7oSyowhviUYqp7FjKhvSr7oLyqqtYDskEqG6vu6Z3ufo",
+        "address": "aleo16u7kxst5w4p63rl2z04k90zd7xxwf0ldj2wg69dgqavh3ugklcrsza8d7n"
+    },
+    "license": "MIT"
+}
